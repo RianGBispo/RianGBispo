@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/carlosfab/carlosfab/master/github-banner.png" alt="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)" title="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)"/>](https://sigmoidal.ai/en/)
+[<img src="[https://raw.githubusercontent.com/carlosfab/carlosfab/master/github-banner.png](https://github.com/RianGBispo/RianGBispo/blob/4069c3104cc37a326453e569fe918678d8ff83e0/logo.png)" alt="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)" title="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)"/>](https://sigmoidal.ai/en/)
 
 <div align="center">
   
