@@ -69,14 +69,8 @@ Atualmente, os projetos da Especialização em Visão Computacional estão dispo
 <div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
 <br/> Este projeto tem como objetivo desenvolver um sistema de vigilância utilizando técnicas de processamento de imagem para detectar movimentos a partir de uma câmera externa. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
 
-## Sobre o Instrutor
-
-<p align="left">
-Carlos Melo é <strong>Engenheiro de Visão Computacional</strong> com formação em Ciências Aeronáuticas pela Academia da Força Aérea e <strong>Mestrado em Engenharia Aeroespacial</strong> pelo Instituto Tecnológico de Aeronáutica (ITA).
-</p>
-
 ### Contato
 
 Para dúvidas, sugestões ou feedbacks:
 
-* **Carlos Melo** - [Contato](https://sigmoidal.ai/contato/)
+* **Rian Bispo** - [Contato](https://www.linkedin.com/in/rian-bispo/)
