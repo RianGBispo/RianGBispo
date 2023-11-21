@@ -37,7 +37,7 @@ Antes de me tornar Engenheiro de Visão Computacional, me formei como <strong>T�
 
 ## 🚀 Projetos
 
-Atualmente, os projetos da Especialização em Visão Computacional estão disponíveis apenas na plataforma de cursos do Sigmoidal (ao final de cada módulo), mas em breve serão atualizados neste repositório 🔥.
+Neste repositório, gostaria de apresentar como se pode transformar dados em insights poderosos e imagens em soluções inovadoras🔥.
 
 <p align="left">
 <a href="projetos/projeto_01/" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><img src="assets/projeto_01_thumb.png" alt="Detecção e Substituição de Fundo em Vídeos (Chroma Key)" width="300px" align="left" /></a>
