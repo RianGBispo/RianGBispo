@@ -13,29 +13,70 @@
 ---
 
 <p align="left">
-I'm a <strong>Computer Vision Engineer</strong> with a background in Aeronautical Sciences from the Air Force Academy and a <strong>Master's in Aerospace Engineering</strong> from the Aeronautical Technological Institute (ITA). In 2019, I founded Sigmoidal, a firm specializing in CV&ML consulting and immersive training programs. To date, I've educated over 6,000 technology enthusiasts.
+  Olá, sou <strong>Cientista de Dados e Engenheiro de Visão Computacional</strong> em ascensão. Tenho me especializado cada vez mais em data science, com uma atenção especial à Visão Computacional. Minhas habilidades incluem análise de dados,
+  e estou empenhado em aprimorar meu conhecimento e aplicá-lo de maneira inovadora.
 </p>
 
 <p align="left"> 
-Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the Air Force</strong> (3,000 flight hours), headed the Space Operations Center, and was a researcher at the Institute for Advanced Studies. And, above all, <strong>I'm married to an extraordinary woman and am the proud father of five</strong>.
+Antes de me tornar Engenheiro de Visão Computacional, me formei como <strong>Técnico em Edificações</strong> e dei inicio a minha graduação de Engenharia Civíl. 
 </p>
 <br>
 
 ### Skills  
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> </p>
+<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="MATLAB" /></a>
+</p>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.png" width="36" height="36" alt="R" /></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/452/power-bi.png" width="36" height="36" alt="Power BI" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/452/tableau-software.png" width="36" height="36" alt="Tableau" /></a>
 
 
-### 📚 Latest Blog Posts
+## 🚀 Projetos
 
-<!--START_SECTION:feed-->
-* [Building Rome in a Day: 3D Reconstruction with Computer Vision](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-rome-in-a-day-3d-reconstruction-with-computer-vision&#x2F;)
-* [Learn Camera Calibration using OpenCV](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;learn-camera-calibration-using-opencv-and-python&#x2F;)
-* [Real-time Human Pose Estimation using MediaPipe](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;real-time-human-pose-estimation-using-mediapipe&#x2F;)
-* [What is Computer Vision and How does it work?](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;what-is-computer-vision-how-does-it-work&#x2F;)
-* [ORB-SLAM 3: A Tool for 3D Mapping and Localization](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;orb-slam-3-a-tool-for-3d-mapping-and-localization&#x2F;)
-* [Building a Deep Learning Neural Network using TensorFlow](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-a-deep-learning-neural-using-network-tensorflow&#x2F;)
-* [Matrix Transformations and Coordinate Systems with Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;matrix-transformations-and-coordinate-systems-with-python&#x2F;)
-* [Build a Surveillance System with Computer Vision and Deep Learning](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;build-a-surveillance-system-with-computer-vision&#x2F;)
-* [Fundamentals of Image Formation](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;fundamentals-of-image-formation&#x2F;)
-<!--END_SECTION:feed-->
+Atualmente, os projetos da Especialização em Visão Computacional estão disponíveis apenas na plataforma de cursos do Sigmoidal (ao final de cada módulo), mas em breve serão atualizados neste repositório 🔥.
+
+<p align="left">
+<a href="projetos/projeto_01/" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><img src="assets/projeto_01_thumb.png" alt="Detecção e Substituição de Fundo em Vídeos (Chroma Key)" width="300px" align="left" /></a>
+<a href="projetos/projeto_01/" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><strong>Chroma Keying para criação de cenários</strong></a>
+<div><strong>Projeto 01</strong> | <strong>Atualizado: 8 Nov 2023</strong></div>
+<br/> Neste primeiro projeto do curso, você irá implementar um algoritmo capaz de identificar e isolar o range de intensidade do fundo verde, e substituí-lo por um cenário alternativo (que pode ser uma imagem estática ou um outro vídeo qualquer...</p>
+
+#
+
+<p align="left">
+<a href="#" title="Análise de Desmatamento através de Imagens de Satélite"><img src="assets/projeto_02_thumb.png" alt="Análise de Desmatamento através de Imagens de Satélite" width="300px" align="left" /></a>
+<a href="#" title="Análise de Desmatamento através de Imagens de Satélite"><strong>Análise de Desmatamento através de Imagens de Satélite</strong></a>
+<div><strong>Projeto 02</strong> | <strong>Em Atualização...</strong></div>
+<br/> Neste projeto você irá aprender a usar recursos de sensoriamento remoto para detectar desmatamentos em regiões de florestas. Especificamente, exploraremos imagens do satélite Landsat 8 (OLI/TIRS) usando a biblioteca Google Earth Engine (GEE)... </p>
+
+#
+
+<p align="left">
+<a href="#" title="Reconhecimento e Contagem de Moedas"><img src="assets/projeto_03_thumb.png" alt="Reconhecimento e Contagem de Moedas" width="300px" align="left" /></a>
+<a href="#" title="Reconhecimento e Contagem de Moedas"><strong>Reconhecimento e Contagem de Moedas</strong></a>
+<div><strong>Projeto 03</strong> | <strong>Em Atualização...</strong></div>
+<br/> Neste projeto você irá desenvolver um *script* para detectar e identificar diferentes tipos de moedas, além de calcular o valor total das moedas detectadas a partir de vídeos gravaods ou transmissões em tempo real via webcam...</p>
+
+#
+
+<p align="left">
+<a href="#" title="Alarme para Detecção de Intrusos"><img src="assets/projeto_04_thumb.png" alt="Alarme para Detecção de Intrusos" width="300px" align="left" /></a>
+<a href="#" title="Alarme para Detecção de Intrusos"><strong>Alarme para Detecção de Intrusos</strong></a>
+<div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
+<br/> Este projeto tem como objetivo desenvolver um sistema de vigilância utilizando técnicas de processamento de imagem para detectar movimentos a partir de uma câmera externa. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
+
+## Sobre o Instrutor
+
+<p align="left">
+Carlos Melo é <strong>Engenheiro de Visão Computacional</strong> com formação em Ciências Aeronáuticas pela Academia da Força Aérea e <strong>Mestrado em Engenharia Aeroespacial</strong> pelo Instituto Tecnológico de Aeronáutica (ITA).
+</p>
+
+### Contato
+
+Para dúvidas, sugestões ou feedbacks:
+
+* **Carlos Melo** - [Contato](https://sigmoidal.ai/contato/)
