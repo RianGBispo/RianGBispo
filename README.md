@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/RianGBispo/RianGBispo/blob/main/banner.png?raw=true" alt="👋 Hi there! I'm Rian Bispo | https://www.linkedin.com/in/rian-bispo)" title="👋 Hi there! I'm Rian Bispo | https://www.linkedin.com/in/rian-bispo)" style="width: 25%;" />
+  <img src="https://github.com/RianGBispo/RianGBispo/blob/main/banner.png?raw=true" alt="👋 Hi there! I'm Rian Bispo | https://www.linkedin.com/in/rian-bispo)" title="👋 Hi there! I'm Rian Bispo | https://www.linkedin.com/in/rian-bispo)"" />
 </div>
 
 <div align="center">
