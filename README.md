@@ -67,7 +67,7 @@ Neste repositório, gostaria de apresentar como se pode transformar dados em ins
 <a href="#" title="Alarme para Detecção de Intrusos"><img src="assets/projeto_04_thumb.png" alt="Alarme para Detecção de Intrusos" width="300px" align="left" /></a>
 <a href="#" title="Alarme para Detecção de Intrusos"><strong>Alarme para Detecção de Intrusos</strong></a>
 <div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
-<br/> Este projeto tem como objetivo desenvolver um sistema de vigilância utilizando técnicas de processamento de imagem para detectar movimentos a partir de uma câmera externa. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
+<br/> Neste projeto é desenvolvido um sistema de vigilância utilizando técnicas de processamento de imagem para detectar movimentos a partir de uma câmera externa. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
 
 #
 
@@ -75,7 +75,7 @@ Neste repositório, gostaria de apresentar como se pode transformar dados em ins
 <a href="https://github.com/RianGBispo/Detector_de_Fadiga" title="Detector de Fadiga"><img src="assets/projeto_05_thumb.png" alt="Detector de Fadiga" width="300px" align="left" /></a>
 <a href="https://github.com/RianGBispo/Detector_de_Fadiga" title="Detector de Fadiga"><strong>Detector de Fadiga</strong></a>
 <div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
-<br/> Este projeto tem como objetivo desenvolver um sistema de detecção de fadiga utilizando técnicas de processamento de imagem para detectar pontos da face a partir de uma câmera externa. Serão utilizadas técnicas para detctar os pontos de interesse com opencv e Delib...</p><br/>
+<br/> Este projeto tem como objetivo desenvolver um sistema de detecção de fadiga utilizando técnicas de processamento de imagem para detectar pontos da face a partir de uma câmera externa. Serão utilizadas técnicas para detctar os pontos de interesse com opencv e Dlib...</p><br/>
 
 ### Contato
 
