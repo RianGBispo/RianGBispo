@@ -69,6 +69,14 @@ Neste repositório, gostaria de apresentar como se pode transformar dados em ins
 <div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
 <br/> Este projeto tem como objetivo desenvolver um sistema de vigilância utilizando técnicas de processamento de imagem para detectar movimentos a partir de uma câmera externa. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
 
+#
+
+<p align="left">
+<a href="#" title="Detector de Fadiga"><img src="assets/projeto_05_thumb.png" alt="Detector de Fadiga" width="300px" align="left" /></a>
+<a href="#" title="Detector de Fadiga"><strong>Detector de Fadiga</strong></a>
+<div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
+<br/> Este projeto tem como objetivo desenvolver um sistema de detecção de fadiga utilizando técnicas de processamento de imagem para detectar pontos da face a partir de uma câmera externa. Serão utilizadas técnicas para detctar os pontos de interesse com opencv e Delib...</p><br/>
+
 ### Contato
 
 Para dúvidas, sugestões ou feedbacks:
