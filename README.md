@@ -18,7 +18,7 @@
 </p>
 
 <p align="left"> 
-Antes de me tornar Engenheiro de Visão Computacional, me formei como <strong>Técnico em Edificações</strong> e dei inicio a minha graduação de Engenharia Civíl. 
+Antes de me tornar Engenheiro de Visão Computacional, me formei como <strong>Técnico em Edificações</strong> e dei inicio a minha graduação de Engenharia Civíl e Engenharia de Software. 
 </p>
 <br>
 
