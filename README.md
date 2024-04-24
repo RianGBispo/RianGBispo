@@ -13,7 +13,7 @@
 ---
 
 <p align="left">
-  Olá, sou <strong>Cientista de Dados e Engenheiro de Visão Computacional</strong> em ascensão. Tenho me especializado cada vez mais em data science, com uma atenção especial à Visão Computacional. Minhas habilidades incluem análise de dados,
+  Ssou <strong>Cientista de Dados e Engenheiro de Visão Computacional</strong> em ascensão. Tenho me especializado cada vez mais em data science, com uma atenção especial à Visão Computacional. Minhas habilidades incluem análise de dados,
   e estou empenhado em aprimorar meu conhecimento e aplicá-lo de maneira inovadora.
 </p>
 
